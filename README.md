@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Luis's portfolio
 
-> One paragraph statement about the project.
+> This project is part of a larger project to build a portfolio following a Figma template for both desktop and mobile. The purpose for this particular section is to create both the desktop version using Bootstrap.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,50 +10,37 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
+- Bootstrap
 
 ## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](#)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
+- Having a modern internet browser: I.E. Chrome, Edge, Safari, Firefox.
 
 ### Setup
-
+- Go into the main page for this project: https://github.com/lu-jim/bootstrap-portfolio
+- Click the green Code button next to the About section.
+- Select the then click the 📋 button.
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Open your console and change the current working directory into the destination for this project.
+- Type `git clone`, and then paste the URL copied in the Setup section.
+- Type Enter to finish the installation process.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Luis Fernando Jimenez**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@lu-jim](https://github.com/lu-jim)
+- Twitter: [@lujimhe](https://twitter.com/lujimhe)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lujim/)
 
 ## 🤝 Contributing
 
@@ -67,9 +54,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse for the guidelines used for this project
+- My SO, Mane
 
 ## 📝 License
 

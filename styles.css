@@ -1,0 +1,5 @@
+.jumbotron-fluid {
+  background-image: url(./assets/Headerbg@2x.svg);
+  min-height: 80vh;
+  background-size: cover;
+}
